@@ -42,3 +42,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or comments, please contact Niloy Deb Barma at [LinkedIn](https://www.linkedin.com/in/niloydebbarmacpscr)
+
+![Alt Text](https://github.com/niloydebbarma-code/Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/blob/b45080c300477fffa734c0079b6a90575f1cb660/Picture%20for%20readme%20file/p1-completed-aws-winter.png)
