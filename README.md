@@ -3,10 +3,12 @@
 ![Udacity](https://github.com/niloydebbarma-code/Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/blob/d63053c4b4086c3f51a36e4e920d3a016ec51421/Picture%20for%20readme%20file/Screenshot_20240620-200244.png)
 ## Overview
 
+![Alt Text](https://github.com/niloydebbarma-code/Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/blob/d5288d5b8d40aaaaeb9947b412bce4c49db1f1b2/Picture%20for%20readme%20file/images%20(1)_072208%20(1).jpeg)
 This project utilizes a pre-trained image classifier to identify dog breeds. It is part of the Udacity Nanodegree program. The classifier can take an image of a dog and predict its breed or determine if a human in the image resembles a particular dog breed.
 
 ## Project Structure
 
+![Alt Text](https://github.com/niloydebbarma-code/Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/blob/d5288d5b8d40aaaaeb9947b412bce4c49db1f1b2/Picture%20for%20readme%20file/images_072212.jpeg)
 The repository contains the following files:
 
 - `LICENSE`: The MIT license file.
