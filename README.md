@@ -1,5 +1,6 @@
 ### Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
 
+![Udacity](https://github.com/niloydebbarma-code/Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/blob/d63053c4b4086c3f51a36e4e920d3a016ec51421/Picture%20for%20readme%20file/Screenshot_20240620-200244.png)
 ## Overview
 
 This project utilizes a pre-trained image classifier to identify dog breeds. It is part of the Udacity Nanodegree program. The classifier can take an image of a dog and predict its breed or determine if a human in the image resembles a particular dog breed.
