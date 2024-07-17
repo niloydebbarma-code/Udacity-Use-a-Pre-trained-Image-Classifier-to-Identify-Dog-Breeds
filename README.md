@@ -9,30 +9,34 @@ This project utilizes a pre-trained image classifier to identify dog breeds. It 
 ## Project Structure
 
 ![Alt Text](https://github.com/niloydebbarma-code/Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/blob/d5288d5b8d40aaaaeb9947b412bce4c49db1f1b2/Picture%20for%20readme%20file/images_072212.jpeg)
-The repository contains the following files:
+The repository contains the following folders and files:
 
-- `LICENSE`: The MIT license file.
-- `README.md`: This readme file.
-- `submit-1c64af89-3109-4d26-8c84-cbfe8ec3c70c.zip`: A zip file containing the project submission, including code and resources.
+- **Folders**:
+  - `Picture for readme file`: Contains images for the README file.
+  - `__pycache__`: Contains compiled Python files.
+  - `pet_images`: Contains images of dogs for the project.
+  - `uploaded_images`: Contains images uploaded for classification.
+
+- **Files**:
+  - `LICENSE`: The MIT license file.
+  - `README.md`: This readme file.
+  - `adjust_results4_isadog.py`: Script to adjust results for is-a-dog determination.
+  - `adjust_results4_isadog_hints.py`: Hints for `adjust_results4_isadog.py`.
+  - `calculates_results_stats.py`: Script to calculate statistics of results.
+  - `calculates_results_stats_hints.py`: Hints for `calculates_results_stats.py`.
 
 ## Installation
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/niloydebbarma-code/Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds.git
-cd Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
-```
-
-2. Unzip the submission file:
-
-```bash
-unzip submit-1c64af89-3109-4d26-8c84-cbfe8ec3c70c.zip
-```
+    ```bash
+    git clone https://github.com/niloydebbarma-code/Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds.git
+    cd Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
+    ```
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
 ## Acknowledgments
 
@@ -41,6 +45,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or comments, please contact Niloy Deb Barma at [LinkedIn](https://www.linkedin.com/in/niloydebbarmacpscr)
+For any questions or comments, please contact Niloy Deb Barma at [LinkedIn](https://www.linkedin.com/in/niloydebbarmacpscr).
 
 ![Alt Text](https://github.com/niloydebbarma-code/Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/blob/b45080c300477fffa734c0079b6a90575f1cb660/Picture%20for%20readme%20file/p1-completed-aws-winter.png)
