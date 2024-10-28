@@ -6,6 +6,27 @@
 ![Alt Text](https://github.com/niloydebbarma-code/Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/blob/d5288d5b8d40aaaaeb9947b412bce4c49db1f1b2/Picture%20for%20readme%20file/images%20(1)_072208%20(1).jpeg)
 This project utilizes a pre-trained image classifier to identify dog breeds. It is part of the Udacity Nanodegree program. The classifier can take an image of a dog and predict its breed or determine if a human in the image resembles a particular dog breed.
 
+# Verified Certificate Of Nanodegree Program Completion
+## AI Programming with Python
+
+[AI Programming with Python](https://www.udacity.com/certificate/e/aaa90186-2dce-11ef-889a-97c882f2afe3)
+
+### Certificate Overview
+This certificate confirms the completion of the AI Programming with Python Nanodegree program. The program covers:
+
+- **Fundamentals of Python programming**
+- **Working with data using NumPy and Pandas**
+- **Introduction to machine learning with scikit-learn**
+- **Building a neural network using PyTorch**
+
+### Skills Acquired
+- Python programming
+- Data manipulation and analysis
+- Machine learning fundamentals
+- Neural network development
+
+For more details, please visit the [official program page](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
+
 ## Project Structure
 
 ![Alt Text](https://github.com/niloydebbarma-code/Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/blob/d5288d5b8d40aaaaeb9947b412bce4c49db1f1b2/Picture%20for%20readme%20file/images_072212.jpeg)
